@@ -1,0 +1,4 @@
+# java-hesap-makinesi-
+
+İLK JAVA PROJEM 
+PROJEM ÇALIŞMIYOR PROJEYİ DÜZELTMEM LAZIM
